@@ -1,10 +1,4 @@
-# Data Scientist, Machine Learning Engineer
 
-## Experience
-
-
-##Projects
-# Peter Scagnelli
 ## ML Engineer/ Data Scientist
 [Github](https://github.com/yourusername) | [Linkedin](https://www.linkedin.com/in/yourprofile) | rhinebeck15@gmail.com | (845)-418-0856
 
